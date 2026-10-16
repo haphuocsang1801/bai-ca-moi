@@ -4,5 +4,5 @@ Trình phát bài ca mới cho buổi thờ phượng, dùng trên Windows và M
 
 **Tải app:** https://bai-ca-moi.vercel.app
 
-Repo này chỉ chứa các bản cài trong mục [Releases](https://github.com/haphuocsang1801/bai-ca-moi/releases);
+Repo này chỉ chứa các bản cài trong mục [Releases](https://github.com/watv-good-new/bai-ca-moi/releases);
 app đã cài cũng lấy bản cập nhật từ đây.
