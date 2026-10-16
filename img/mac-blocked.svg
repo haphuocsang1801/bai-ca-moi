@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 290" font-family="-apple-system, 'Helvetica Neue', system-ui, sans-serif">
+  <rect width="480" height="290" rx="12" fill="#eef1f6"/>
+  <rect x="110" y="14" width="260" height="262" rx="16" fill="#f7f7f8" stroke="#d6d8dd"/>
+
+  <g transform="translate(212 28) scale(0.56)">
+    <rect x="0.5" y="0.5" width="99" height="99" rx="22" fill="#fff" stroke="#DDE2F0"/>
+    <g stroke-linecap="round" stroke-width="9" fill="none">
+      <path d="M43 22 L37 78" stroke="#1D3499"/>
+      <path d="M65 22 L59 78" stroke="#1D3499"/>
+      <path d="M24 42 L78 37" stroke="#4361EE"/>
+      <path d="M22 64 L76 59" stroke="#4361EE"/>
+    </g>
+    <circle cx="79" cy="21" r="6" fill="#E8577E"/>
+  </g>
+  <g transform="translate(252 64)">
+    <path d="M12 1l11.5 20H.5z" fill="#ffcc00" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M12 8v6" stroke="#1f2329" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="12" cy="17.5" r="1.2" fill="#1f2329"/>
+  </g>
+
+  <text x="240" y="114" fill="#1f2329" font-size="13" font-weight="700" text-anchor="middle">Không mở “Bài Ca Mới”</text>
+  <g fill="#3c3f44" font-size="11" text-anchor="middle">
+    <text x="240" y="136">Apple không thể xác minh “Bài Ca Mới”</text>
+    <text x="240" y="151">không chứa phần mềm độc hại có thể gây</text>
+    <text x="240" y="166">hại cho máy Mac hoặc quyền riêng tư</text>
+    <text x="240" y="181">của bạn.</text>
+  </g>
+
+  <rect x="126" y="200" width="228" height="28" rx="7" fill="#0a84ff"/>
+  <text x="240" y="218" fill="#fff" font-size="12" font-weight="600" text-anchor="middle">Xong</text>
+  <rect x="120" y="194" width="240" height="40" rx="11" fill="none" stroke="#e8577e" stroke-width="3"/>
+  <rect x="126" y="238" width="228" height="28" rx="7" fill="#e4e5e8"/>
+  <text x="240" y="256" fill="#1f2329" font-size="12" text-anchor="middle">Chuyển vào Thùng rác</text>
+  <path d="M262 214v17l4.5-4 3 7 2.6-1.1-3-7h6z" fill="#111" stroke="#fff" stroke-width="1.2" stroke-linejoin="round"/>
+</svg>
